@@ -32,7 +32,7 @@ public class Telco implements TelcoSubscription {
     }
 
     public double getPromoPrice() 
-  {
+   {
         return promoPrice;
     }
 
