@@ -1,7 +1,6 @@
 package VisitorPattern;
 
-public interface TelcoSubscription
-  {
+public interface TelcoSubscription {
     String accept(UsagePromo promo);
     String accept(UnliCallOffer unli);
 }
